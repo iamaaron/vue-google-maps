@@ -23,6 +23,10 @@ const props = {
     required: false,
     type: String
   },
+  autoComplete: {
+    required: false,
+    type: String
+  },
   className: {
     required: false,
     type: String
